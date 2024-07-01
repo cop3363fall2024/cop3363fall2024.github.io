@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: COP3363 Fall 2024
-description: A Jekyll theme for documentation
+description: The course website of COP3363 Introduction to Programming in C++
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://just-the-docs.com" # the base hostname & protocol for your site, e.g. http://example.com
 repository: just-the-docs/just-the-docs # for github-metadata
@@ -50,7 +50,7 @@ exclude:
    - fixtures/
 
 # Set a path/url to a logo that will be displayed instead of the title
-#logo: "/assets/images/just-the-docs.png"
+# logo: "/assets/images/fsu.jpg"
 
 # Enable or disable the site search
 # Supports true (default) or false
