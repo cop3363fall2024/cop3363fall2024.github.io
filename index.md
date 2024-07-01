@@ -2,9 +2,30 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Welcome to COP3363"
 permalink: /
 ---
+
+# Introduction to Programming in C++ for Majors
+
+Fall 2024
+{: .fs-6 .fw-300 }
+[Download the Course Syllabus](./assets/files/syllabus-cop3363-fall24.pdf){: .fs-5 }
+
+Instructor
+{: .fs-8 .fw-300}
+<!-- ![](./assets/images/shibo.jpg) -->
+<img src="./assets/images/shibo.jpg" width=200 height=200>
+
+Shibo Li 
+{: .fs-6 }
+[Email: shiboli@cs.fsu.edu](mailto:shiboli@cs.fsu.edu)
+
+MEB 3346
+
+Office Hours: Web 12:30-10:300 pm
+
+
 
 # Focus on writing good documentation
 {: .fs-9 }
