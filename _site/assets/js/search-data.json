@@ -694,7 +694,7 @@
   },"99": {
     "doc": "Home",
     "title": "Introduction to Programming in C++ for Majors",
-    "content": "Fall 2024 . Download the Course Syllabus . Week 4 Annoucements . Apr 23 . Assignments: . | Project 5 has been released, due Tuesday, April 16, 11:59 PM PT | Homework 9 Part A and Part B released, due Tuesday, April 16, 11:59 PM PT | Homework 10 Part A and Part B will be released later this week, due Tuesday, April 23, 11:59 PM PT | Project 6 will be released later this week, due Friday, April 26, 11:59 PM PT | . We’re almost at the end, hang in there! . Attendance Extra Credit: . | The EC attendance assignment has been updated on Gradescope! | To view your updated attendance, either submit the email.txt file as mentioned in #353 if you haven’t, or click “re-run autograder” to see the updated score. | . Past annoucements . Instructor . Shibo Li . Email: shiboli@cs.fsu.edu . MEB 3346 . Office Hours: Web 12:30-10:300 pm . ",
+    "content": "Fall 2024 . Download the Course Syllabus . Week 4 Annoucements . Apr 23 . Assignments: . | Project 5 has been released, due Tuesday, April 16, 11:59 PM PT | Homework 9 Part A and Part B released, due Tuesday, April 16, 11:59 PM PT | Homework 10 Part A and Part B will be released later this week, due Tuesday, April 23, 11:59 PM PT | Project 6 will be released later this week, due Friday, April 26, 11:59 PM PT | . We’re almost at the end, hang in there! . Attendance Extra Credit: . | The EC attendance assignment has been updated on Gradescope! | To view your updated attendance, either submit the email.txt file as mentioned in #353 if you haven’t, or click “re-run autograder” to see the updated score. | . Past annoucements . ",
     "url": "/#introduction-to-programming-in-c-for-majors",
     
     "relUrl": "/#introduction-to-programming-in-c-for-majors"
@@ -791,95 +791,95 @@
     "relUrl": "/docs/ui-components/labels/"
   },"113": {
     "doc": "Layout",
-    "title": "Layout Utilities",
-    "content": " ",
-    "url": "/docs/utilities/layout/#layout-utilities",
-    
-    "relUrl": "/docs/utilities/layout/#layout-utilities"
-  },"114": {
-    "doc": "Layout",
-    "title": "Table of contents",
-    "content": ". | Spacing | Horizontal Alignment | Vertical Alignment | Display | . ",
-    "url": "/docs/utilities/layout/#table-of-contents",
-    
-    "relUrl": "/docs/utilities/layout/#table-of-contents"
-  },"115": {
-    "doc": "Layout",
-    "title": "Spacing",
-    "content": "These spacers are available to use for margins and padding with responsive utility classes. Combine these prefixes with a screen size and spacing scale to use them responsively. | Classname prefix | What it does | . | .m- | margin | . | .mx- | margin-left, margin-right | . | .my- | margin top, margin bottom | . | .mt- | margin-top | . | .mr- | margin-right | . | .mb- | margin-bottom | . | .ml- | margin-left | . | Classname prefix | What it does | . | .p- | padding | . | .px- | padding-left, padding-right | . | .py- | padding top, padding bottom | . | .pt- | padding-top | . | .pr- | padding-right | . | .pb- | padding-bottom | . | .pl- | padding-left | . Spacing values are based on a 1rem = 16px spacing scale, broken down into these units: . | Spacer/suffix | Size in rems | Rem converted to px | . | 1 | 0.25rem | 4px | . | 2 | 0.5rem | 8px | . | 3 | 0.75rem | 12px | . | 4 | 1rem | 16px | . | 5 | 1.5rem | 24px | . | 6 | 2rem | 32px | . | 7 | 2.5rem | 40px | . | 8 | 3rem | 48px | . | auto | auto | auto | . Use mx-auto to horizontally center elements. Examples . In Markdown, use the {: } wrapper to apply custom classes: . This paragraph will have a margin bottom of 1rem/16px on large screens. {: .mb-lg-4 } This paragraph will have 2rem/32px of padding on the right and left at all screen sizes. {: .px-6 } . ",
-    "url": "/docs/utilities/layout/#spacing",
-    
-    "relUrl": "/docs/utilities/layout/#spacing"
-  },"116": {
-    "doc": "Layout",
-    "title": "Horizontal Alignment",
-    "content": "| Classname | What it does | . | .float-left | float: left | . | .float-right | float: right | . | .flex-justify-start | justify-content: flex-start | . | .flex-justify-end | justify-content: flex-end | . | .flex-justify-between | justify-content: space-between | . | .flex-justify-around | justify-content: space-around | . Note: any of the flex- classes must be used on a parent element that has d-flex applied to it. ",
-    "url": "/docs/utilities/layout/#horizontal-alignment",
-    
-    "relUrl": "/docs/utilities/layout/#horizontal-alignment"
-  },"117": {
-    "doc": "Layout",
-    "title": "Vertical Alignment",
-    "content": "| Classname | What it does | . | .v-align-baseline | vertical-align: baseline | . | .v-align-bottom | vertical-align: bottom | . | .v-align-middle | vertical-align: middle | . | .v-align-text-bottom | vertical-align: text-bottom | . | .v-align-text-top | vertical-align: text-top | . | .v-align-top | vertical-align: top | . ",
-    "url": "/docs/utilities/layout/#vertical-alignment",
-    
-    "relUrl": "/docs/utilities/layout/#vertical-alignment"
-  },"118": {
-    "doc": "Layout",
-    "title": "Display",
-    "content": "Display classes aid in adapting the layout of the elements on a page: . | Class |   | . | .d-block | display: block | . | .d-flex | display: flex | . | .d-inline | display: inline | . | .d-inline-block | display: inline-block | . | .d-none | display: none | . Use these classes in conjunction with the responsive modifiers. Examples . In Markdown, use the {: } wrapper to apply custom classes: . This button will be hidden until medium screen sizes: [ A button ](#url) {: .d-none .d-md-inline-block } These headings will be `inline-block`: ### heading 3 {: .d-inline-block } ### heading 3 {: .d-inline-block } . ",
-    "url": "/docs/utilities/layout/#display",
-    
-    "relUrl": "/docs/utilities/layout/#display"
-  },"119": {
-    "doc": "Layout",
-    "title": "Layout",
-    "content": " ",
-    "url": "/docs/utilities/layout/",
-    
-    "relUrl": "/docs/utilities/layout/"
-  },"120": {
-    "doc": "Layout",
     "title": "Layout",
     "content": "You specify the layout for a page in its front matter. Just the Docs has a default layout with a sidebar, used for almost all pages in the theme docs, and a minimal layout that omits the sidebar. ",
     "url": "/docs/layout/layout/",
     
     "relUrl": "/docs/layout/layout/"
-  },"121": {
+  },"114": {
     "doc": "Layout",
     "title": "The layout concept",
     "content": "See the Jekyll docs page about layouts for an explanation of the general idea of layouts and how to specify them. You can use Jekyll’s front matter defaults to specify the same layout for many pages. ",
     "url": "/docs/layout/layout/#the-layout-concept",
     
     "relUrl": "/docs/layout/layout/#the-layout-concept"
-  },"122": {
+  },"115": {
     "doc": "Layout",
     "title": "The default layout",
     "content": "This page uses the default layout. It is a responsive layout: on medium and larger width displays, it displays a sidebar, including a navigation panel; on smaller width displays, the sidebar is automatically hidden under a button. Each child (and grandchild) page of a top-level page has so-called breadcrumbs: links to its parent (and grandparent) pages. It shows the breadcrumbs above the main content of the page. Each page that has child pages generally has a list of links to those pages (you can suppress it by has_toc: false in the front matter). It shows the list as a table of contents below the main content. ",
     "url": "/docs/layout/layout/#the-default-layout",
     
     "relUrl": "/docs/layout/layout/#the-default-layout"
-  },"123": {
+  },"116": {
     "doc": "Layout",
     "title": "The minimal layout",
     "content": "A child and grandchild page of this page use the minimal layout. This differs from the default layout by omitting the sidebar—and thereby also the navigation panel. To navigate between pages with the minimal layout, you can use the breadcrumbs and the tables of contents. ",
     "url": "/docs/layout/layout/#the-minimal-layout",
     
     "relUrl": "/docs/layout/layout/#the-minimal-layout"
-  },"124": {
+  },"117": {
     "doc": "Layout",
     "title": "Selectively hiding or showing the sidebar",
     "content": "Jekyll’s front matter defaults can be used to apply the minimal layout for many pages. But there are also other variables that can control the page layout. In _config.yml, you can set nav_enabled: false to disable the sidebar navigation panel across the entire site. This can then be selectively enabled on a page-by-page basis by assigning the nav_enabled: true page front matter variable. For instance, this could be used to enable sidebar navigation on a home page while all other pages have sidebar navigation disabled. --- layout: default title: Home nav_enabled: true --- . ",
     "url": "/docs/layout/layout/#selectively-hiding-or-showing-the-sidebar",
     
     "relUrl": "/docs/layout/layout/#selectively-hiding-or-showing-the-sidebar"
-  },"125": {
+  },"118": {
     "doc": "Layout",
     "title": "Other layouts",
     "content": "Just the Docs has further layouts: about, home, page, and post. Currently, they are all based on the default layout. See the Jekyll docs about inheritance for how to customize them. ",
     "url": "/docs/layout/layout/#other-layouts",
     
     "relUrl": "/docs/layout/layout/#other-layouts"
+  },"119": {
+    "doc": "Layout",
+    "title": "Layout Utilities",
+    "content": " ",
+    "url": "/docs/utilities/layout/#layout-utilities",
+    
+    "relUrl": "/docs/utilities/layout/#layout-utilities"
+  },"120": {
+    "doc": "Layout",
+    "title": "Table of contents",
+    "content": ". | Spacing | Horizontal Alignment | Vertical Alignment | Display | . ",
+    "url": "/docs/utilities/layout/#table-of-contents",
+    
+    "relUrl": "/docs/utilities/layout/#table-of-contents"
+  },"121": {
+    "doc": "Layout",
+    "title": "Spacing",
+    "content": "These spacers are available to use for margins and padding with responsive utility classes. Combine these prefixes with a screen size and spacing scale to use them responsively. | Classname prefix | What it does | . | .m- | margin | . | .mx- | margin-left, margin-right | . | .my- | margin top, margin bottom | . | .mt- | margin-top | . | .mr- | margin-right | . | .mb- | margin-bottom | . | .ml- | margin-left | . | Classname prefix | What it does | . | .p- | padding | . | .px- | padding-left, padding-right | . | .py- | padding top, padding bottom | . | .pt- | padding-top | . | .pr- | padding-right | . | .pb- | padding-bottom | . | .pl- | padding-left | . Spacing values are based on a 1rem = 16px spacing scale, broken down into these units: . | Spacer/suffix | Size in rems | Rem converted to px | . | 1 | 0.25rem | 4px | . | 2 | 0.5rem | 8px | . | 3 | 0.75rem | 12px | . | 4 | 1rem | 16px | . | 5 | 1.5rem | 24px | . | 6 | 2rem | 32px | . | 7 | 2.5rem | 40px | . | 8 | 3rem | 48px | . | auto | auto | auto | . Use mx-auto to horizontally center elements. Examples . In Markdown, use the {: } wrapper to apply custom classes: . This paragraph will have a margin bottom of 1rem/16px on large screens. {: .mb-lg-4 } This paragraph will have 2rem/32px of padding on the right and left at all screen sizes. {: .px-6 } . ",
+    "url": "/docs/utilities/layout/#spacing",
+    
+    "relUrl": "/docs/utilities/layout/#spacing"
+  },"122": {
+    "doc": "Layout",
+    "title": "Horizontal Alignment",
+    "content": "| Classname | What it does | . | .float-left | float: left | . | .float-right | float: right | . | .flex-justify-start | justify-content: flex-start | . | .flex-justify-end | justify-content: flex-end | . | .flex-justify-between | justify-content: space-between | . | .flex-justify-around | justify-content: space-around | . Note: any of the flex- classes must be used on a parent element that has d-flex applied to it. ",
+    "url": "/docs/utilities/layout/#horizontal-alignment",
+    
+    "relUrl": "/docs/utilities/layout/#horizontal-alignment"
+  },"123": {
+    "doc": "Layout",
+    "title": "Vertical Alignment",
+    "content": "| Classname | What it does | . | .v-align-baseline | vertical-align: baseline | . | .v-align-bottom | vertical-align: bottom | . | .v-align-middle | vertical-align: middle | . | .v-align-text-bottom | vertical-align: text-bottom | . | .v-align-text-top | vertical-align: text-top | . | .v-align-top | vertical-align: top | . ",
+    "url": "/docs/utilities/layout/#vertical-alignment",
+    
+    "relUrl": "/docs/utilities/layout/#vertical-alignment"
+  },"124": {
+    "doc": "Layout",
+    "title": "Display",
+    "content": "Display classes aid in adapting the layout of the elements on a page: . | Class |   | . | .d-block | display: block | . | .d-flex | display: flex | . | .d-inline | display: inline | . | .d-inline-block | display: inline-block | . | .d-none | display: none | . Use these classes in conjunction with the responsive modifiers. Examples . In Markdown, use the {: } wrapper to apply custom classes: . This button will be hidden until medium screen sizes: [ A button ](#url) {: .d-none .d-md-inline-block } These headings will be `inline-block`: ### heading 3 {: .d-inline-block } ### heading 3 {: .d-inline-block } . ",
+    "url": "/docs/utilities/layout/#display",
+    
+    "relUrl": "/docs/utilities/layout/#display"
+  },"125": {
+    "doc": "Layout",
+    "title": "Layout",
+    "content": " ",
+    "url": "/docs/utilities/layout/",
+    
+    "relUrl": "/docs/utilities/layout/"
   },"126": {
     "doc": "Lectures",
     "title": "Lecture Schedule",
@@ -1098,139 +1098,160 @@
     
     "relUrl": "/docs/search/#custom-content-for-search-index"
   },"157": {
+    "doc": "Staff",
+    "title": "Instructor",
+    "content": ". Shibo Li . Email: shiboli@cs.fsu.edu . MEB 3346 . Office Hours: Web 12:30-10:300 pm . ",
+    "url": "/docs/staff/#instructor",
+    
+    "relUrl": "/docs/staff/#instructor"
+  },"158": {
+    "doc": "Staff",
+    "title": "Teaching Assistants",
+    "content": ". Shibo Li . Email: shiboli@cs.fsu.edu . Office Hours: Web 12:30-10:300 pm, MEB 3346 . Shibo Li . Email: shiboli@cs.fsu.edu . Office Hours: Web 12:30-10:300 pm, MEB 3346 . Shibo Li . Email: shiboli@cs.fsu.edu . Office Hours: Web 12:30-10:300 pm, MEB 3346 . ",
+    "url": "/docs/staff/#teaching-assistants",
+    
+    "relUrl": "/docs/staff/#teaching-assistants"
+  },"159": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": " ",
+    "url": "/docs/staff/",
+    
+    "relUrl": "/docs/staff/"
+  },"160": {
     "doc": "Tables",
     "title": "Tables",
     "content": "Tables are responsive by default, allowing wide tables to have a horizontal scroll to access columns outside of the normal viewport. | head1 | head two | three | . | ok | good swedish fish | nice | . | out of stock | good and plenty | nice | . | ok | good oreos | hmm | . | ok | good zoute drop | yumm | . | head1 | head two | three |:-------------|:------------------|:------| ok | good swedish fish | nice | out of stock | good and plenty | nice | ok | good `oreos` | hmm | ok | good `zoute` drop | yumm | . ",
     "url": "/docs/ui-components/tables/",
     
     "relUrl": "/docs/ui-components/tables/"
-  },"158": {
+  },"161": {
     "doc": "Typography",
     "title": "Typography",
     "content": " ",
     "url": "/docs/ui-components/typography/",
     
     "relUrl": "/docs/ui-components/typography/"
-  },"159": {
+  },"162": {
     "doc": "Typography",
     "title": "Table of contents",
     "content": ". | Font stack | Responsive type scale | Headings | Body text | Inline elements | Typographic Utilities | . ",
     "url": "/docs/ui-components/typography/#table-of-contents",
     
     "relUrl": "/docs/ui-components/typography/#table-of-contents"
-  },"160": {
+  },"163": {
     "doc": "Typography",
     "title": "Font stack",
     "content": "By default, Just the Docs uses a native system font stack for sans-serif fonts: . system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Segoe UI Emoji\" . ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz . For monospace type, like code snippets or the &lt;pre&gt; element, Just the Docs uses a native system font stack for monospace fonts: . \"SFMono-Regular\", Menlo, Consolas, Monospace . ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz . ",
     "url": "/docs/ui-components/typography/#font-stack",
     
     "relUrl": "/docs/ui-components/typography/#font-stack"
-  },"161": {
+  },"164": {
     "doc": "Typography",
     "title": "Responsive type scale",
     "content": "Just the Docs uses a responsive type scale that shifts depending on the viewport size. | Selector | Small screen size font-size | Large screen size font-size | . | h1, .text-alpha | 32px | 36px | . | h2, .text-beta | 18px | 24px | . | h3, .text-gamma | 16px | 18px | . | h4, .text-delta | 14px | 16px | . | h5, .text-epsilon | 16px | 18px | . | h6, .text-zeta | 18px | 24px | . | body | 14px | 16px | . ",
     "url": "/docs/ui-components/typography/#responsive-type-scale",
     
     "relUrl": "/docs/ui-components/typography/#responsive-type-scale"
-  },"162": {
+  },"165": {
     "doc": "Typography",
     "title": "Headings",
     "content": "Headings are rendered like this: . ",
     "url": "/docs/ui-components/typography/#headings",
     
     "relUrl": "/docs/ui-components/typography/#headings"
-  },"163": {
+  },"166": {
     "doc": "Typography",
     "title": "Heading 1",
     "content": " ",
     "url": "/docs/ui-components/typography/",
     
     "relUrl": "/docs/ui-components/typography/"
-  },"164": {
+  },"167": {
     "doc": "Typography",
     "title": "Heading 2",
     "content": "Heading 3 . Heading 4 . Heading 5 . Heading 6 . # Heading 1 ## Heading 2 ### Heading 3 #### Heading 4 ##### Heading 5 ###### Heading 6 . ",
     "url": "/docs/ui-components/typography/",
     
     "relUrl": "/docs/ui-components/typography/"
-  },"165": {
+  },"168": {
     "doc": "Typography",
     "title": "Body text",
     "content": "Default body text is rendered like this: . Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
     "url": "/docs/ui-components/typography/#body-text",
     
     "relUrl": "/docs/ui-components/typography/#body-text"
-  },"166": {
+  },"169": {
     "doc": "Typography",
     "title": "Inline elements",
     "content": "Text can be bold, italic, or strikethrough. Link to another page. Text can be **bold**, _italic_, or ~~strikethrough~~. [Link to another page](/). ",
     "url": "/docs/ui-components/typography/#inline-elements",
     
     "relUrl": "/docs/ui-components/typography/#inline-elements"
-  },"167": {
+  },"170": {
     "doc": "Typography",
     "title": "Typographic Utilities",
     "content": "There are a number of specific typographic CSS classes that allow you to override default styling for font size, font weight, line height, and capitalization. View typography utilities . ",
     "url": "/docs/ui-components/typography/#typographic-utilities",
     
     "relUrl": "/docs/ui-components/typography/#typographic-utilities"
-  },"168": {
+  },"171": {
     "doc": "Typography",
     "title": "Typography Utilities",
     "content": " ",
     "url": "/docs/utilities/typography/#typography-utilities",
     
     "relUrl": "/docs/utilities/typography/#typography-utilities"
-  },"169": {
+  },"172": {
     "doc": "Typography",
     "title": "Table of contents",
     "content": ". | Font size | Font weight | Line height | Text justification | . ",
     "url": "/docs/utilities/typography/#table-of-contents",
     
     "relUrl": "/docs/utilities/typography/#table-of-contents"
-  },"170": {
+  },"173": {
     "doc": "Typography",
     "title": "Font size",
     "content": "Use the .fs-1 - .fs-10 to set an explicit font-size. | Class | Small screen size font-size | Large screen size font-size | . | .fs-1 | 9px | 10px | . | .fs-2 | 11px | 12px | . | .fs-3 | 12px | 14px | . | .fs-4 | 14px | 16px | . | .fs-5 | 16px | 18px | . | .fs-6 | 18px | 24px | . | .fs-7 | 24px | 32px | . | .fs-8 | 32px | 38px | . | .fs-9 | 38px | 42px | . | .fs-10 | 42px | 48px | . Font size 1 . Font size 2 . Font size 3 . Font size 4 . Font size 5 . Font size 6 . Font size 7 . Font size 8 . Font size 9 . Font size 10 . In Markdown, use the `{: }` wrapper to apply custom classes: Font size 1 {: .fs-1 } Font size 2 {: .fs-2 } Font size 3 {: .fs-3 } Font size 4 {: .fs-4 } Font size 5 {: .fs-5 } Font size 6 {: .fs-6 } Font size 7 {: .fs-7 } Font size 8 {: .fs-8 } Font size 9 {: .fs-9 } Font size 10 {: .fs-10 } . ",
     "url": "/docs/utilities/typography/#font-size",
     
     "relUrl": "/docs/utilities/typography/#font-size"
-  },"171": {
+  },"174": {
     "doc": "Typography",
     "title": "Font weight",
     "content": "Use the .fw-300 - .fw-700 to set an explicit font-weight. Font weight 300 . Font weight 400 . Font weight 500 . Font weight 700 . In Markdown, use the `{: }` wrapper to apply custom classes: Font weight 300 {: .fw-300 } Font weight 400 {: .fw-400 } Font weight 500 {: .fw-500 } Font weight 700 {: .fw-700 } . ",
     "url": "/docs/utilities/typography/#font-weight",
     
     "relUrl": "/docs/utilities/typography/#font-weight"
-  },"172": {
+  },"175": {
     "doc": "Typography",
     "title": "Line height",
     "content": "Use the lh- classes to explicitly apply line height to text. | Class | line-height value | Notes | . | .lh-0 | 0 |   | . | .lh-tight | 1.1 | Default for headings | . | .lh-default | 1.4 | Default for body (paragraphs) | . No Line height No Line height . Tight line height Tight line height . Default line height Default line height . In Markdown, use the `{: }` wrapper to apply custom classes: No Line height No Line height {: .lh-0 } Tight line height Tight line height {: .lh-tight } Default line height Default line height {: .fh-default } . ",
     "url": "/docs/utilities/typography/#line-height",
     
     "relUrl": "/docs/utilities/typography/#line-height"
-  },"173": {
+  },"176": {
     "doc": "Typography",
     "title": "Text justification",
     "content": "By default text is justified left. Use these text- classes to override settings: . | Class | What it does | . | .text-left | text-align: left | . | .text-right | text-align: right | . | .text-center | text-align: center | . ",
     "url": "/docs/utilities/typography/#text-justification",
     
     "relUrl": "/docs/utilities/typography/#text-justification"
-  },"174": {
+  },"177": {
     "doc": "Typography",
     "title": "Typography",
     "content": " ",
     "url": "/docs/utilities/typography/",
     
     "relUrl": "/docs/utilities/typography/"
-  },"175": {
+  },"178": {
     "doc": "UI Components",
     "title": "UI Components",
     "content": "To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed. ",
     "url": "/docs/ui-components",
     
     "relUrl": "/docs/ui-components"
-  },"176": {
+  },"179": {
     "doc": "Utilities",
     "title": "Utilities",
     "content": "CSS utility classes come in handy when you want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size. ",

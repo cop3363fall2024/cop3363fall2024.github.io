@@ -35,18 +35,6 @@ Attendance Extra Credit:
 </div>
 [Past annoucements]({% link docs/annoucements.md %}){: .btn .btn-white }
 
-Instructor
-{: .fs-8 .fw-300}
-<!-- ![](./assets/images/shibo.jpg) -->
-<img src="./assets/images/shibo.jpg" width=200 height=200>
-
-Shibo Li 
-{: .fs-6 }
-[Email: shiboli@cs.fsu.edu](mailto:shiboli@cs.fsu.edu)
-
-MEB 3346
-
-Office Hours: Web 12:30-10:300 pm
 
 
 
