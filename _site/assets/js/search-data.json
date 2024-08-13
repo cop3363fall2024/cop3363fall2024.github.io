@@ -701,7 +701,7 @@
   },"100": {
     "doc": "Home",
     "title": "Introduction to Programming in C++ for Majors",
-    "content": "Fall 2024 . Download the Course Syllabus . Week 4 Annoucements . Apr 23 . Assignments: . | Project 5 has been released, due Tuesday, April 16, 11:59 PM PT | Homework 9 Part A and Part B released, due Tuesday, April 16, 11:59 PM PT | Homework 10 Part A and Part B will be released later this week, due Tuesday, April 23, 11:59 PM PT | Project 6 will be released later this week, due Friday, April 26, 11:59 PM PT | . We’re almost at the end, hang in there! . Attendance Extra Credit: . | The EC attendance assignment has been updated on Gradescope! | To view your updated attendance, either submit the email.txt file as mentioned in #353 if you haven’t, or click “re-run autograder” to see the updated score. | . Past annoucements . ",
+    "content": "Fall 2024 . Download the Course Syllabus Here . Week 4 Annoucements . Apr 23 . Assignments: . | Project 5 has been released, due Tuesday, April 16, 11:59 PM PT | Homework 9 Part A and Part B released, due Tuesday, April 16, 11:59 PM PT | Homework 10 Part A and Part B will be released later this week, due Tuesday, April 23, 11:59 PM PT | Project 6 will be released later this week, due Friday, April 26, 11:59 PM PT | . We’re almost at the end, hang in there! . Attendance Extra Credit: . | The EC attendance assignment has been updated on Gradescope! | To view your updated attendance, either submit the email.txt file as mentioned in #353 if you haven’t, or click “re-run autograder” to see the updated score. | . Past annoucements . ",
     "url": "/#introduction-to-programming-in-c-for-majors",
     
     "relUrl": "/#introduction-to-programming-in-c-for-majors"
@@ -1051,7 +1051,7 @@
   },"150": {
     "doc": "Staff",
     "title": "Instructor",
-    "content": ". Shibo Li . Email: shiboli@cs.fsu.edu . MEB 3346 . Office Hours: Web 12:30-10:300 pm . ",
+    "content": ". Shibo Li . Email: shiboli@cs.fsu.edu . 206A LOV . Office Hours: Web 12:30-10:300 pm . ",
     "url": "/docs/staff/#instructor",
     
     "relUrl": "/docs/staff/#instructor"

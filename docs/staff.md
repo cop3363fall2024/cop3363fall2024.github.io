@@ -11,9 +11,9 @@ nav_order: 4
 {: .fs-6 }
 [Email: shiboli@cs.fsu.edu](mailto:shiboli@cs.fsu.edu)
 
-MEB 3346
+206A LOV
 
-Office Hours: Web 12:30-10:300 pm
+**Office Hours**: Web 12:30-10:300 pm
 
 # Teaching Assistants
 

@@ -10,7 +10,7 @@ permalink: /
 
 Fall 2024
 {: .fs-6 .fw-300 }
-[Download the Course Syllabus](./assets/files/syllabus-cop3363-fall24.pdf){: .fs-5 }
+[Download the Course Syllabus Here](./assets/files/syllabus-cop3363-fall24.pdf){: .fs-5 }
 
 <div class="code-example" markdown="1">
 ### Week 4 Annoucements
