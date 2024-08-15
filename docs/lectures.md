@@ -11,6 +11,14 @@ nav_order: 3
 
 | Date           | Topic                                                         |  Reading Materials                                   | Assignment        |
 |:---------------|:--------------------------------------------------------------|:-----------------------------------------------------|:------------------|
+| Mon 8/26   | Class Overview and Logistics | [Course Syllabus](../../assets/files/syllabus-cop3363-fall24.pdf) |     |
+
+</div>
+
+<!-- <div class="code-example" markdown="1">
+
+| Date           | Topic                                                         |  Reading Materials                                   | Assignment        |
+|:---------------|:--------------------------------------------------------------|:-----------------------------------------------------|:------------------|
 | Tue 01/09   | [Class Overview](../../assets/files/syllabus-cop3363-fall24.pdf): Probabilistic Machine Learning: Definition, Course Topics | PRML Ch10.5 pp493-496 |   HW 1 Realeased Due on 02/16  |
 | Tue 01/09   | [Class Overview](../../assets/files/syllabus-cop3363-fall24.pdf): Probabilistic Machine Learning: Definition, Course Topics | PRML Ch10.5 pp493-496 |   HW 1 Realeased Due on 02/16  |
 | Tue 01/09   | [Class Overview](../../assets/files/syllabus-cop3363-fall24.pdf): Probabilistic Machine Learning: Definition, Course Topics | PRML Ch10.5 pp493-496 |   HW 1 Realeased Due on 02/16  |
@@ -18,4 +26,4 @@ nav_order: 3
 | Tue 01/09|  <span style="color:red">Cancelled</span> | <span style="color:red">-</span> | <span style="color:red">-</span> |
 
 
-</div>
+</div> -->
