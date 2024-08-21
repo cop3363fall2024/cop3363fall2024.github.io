@@ -29,17 +29,17 @@ Welcomme to COP3363: Introduction to Programming in *C++*!
 <br/>
 Office: 206A LOV
 <br/>
-Office Hour: TBA
+Office Hour: Web 3:00-4:30 pm
 <br/>
-[Teaching Staff](docs/staff)
+[Meet Our Teaching Staff](docs/staff)
 
 ## Class Time and Location
 Monday and Wednesday on 4:50pm - 6:05pm @ MCH 201
 
 ## Review and Discussion Sessions
-[See the details](docs/staff)
+[See the details](docs/sessions)
 
-# Focus on writing good documentation
+<!-- # Focus on writing good documentation
 {: .fs-9 }
 
 Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
@@ -129,4 +129,4 @@ Just the Docs is committed to fostering a welcoming community.
 [Template README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
 [GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
 [customize]: {% link docs/customization.md %}
-[use the template]: https://github.com/just-the-docs/just-the-docs-template/generate
+[use the template]: https://github.com/just-the-docs/just-the-docs-template/generate -->
