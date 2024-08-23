@@ -18,7 +18,9 @@ Fall 2024
 8-26-2023
 {: .fs-3}
 
-Welcomme to COP3363: Introduction to Programming in *C++*!
+Welcomme to COP3363: Introduction to Programming in *C++* for Majors!
+
+**Please bring your laptops or tablets that have Canvas access to the class, we will have a in-class quiz on the first day!**
 
 </div>
 
@@ -29,7 +31,7 @@ Welcomme to COP3363: Introduction to Programming in *C++*!
 <br/>
 Office: 206A LOV
 <br/>
-Office Hour: Web 3:00-4:30 pm
+Office Hour: Web 3:30-4:30 pm
 <br/>
 [Meet Our Teaching Staff](docs/staff)
 

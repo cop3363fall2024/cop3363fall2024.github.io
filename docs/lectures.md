@@ -11,7 +11,7 @@ nav_order: 3
 
 | Date           | Topic                                                         |  Reading Materials                                   | Assignment        |
 |:---------------|:--------------------------------------------------------------|:-----------------------------------------------------|:------------------|
-| Mon 8/26   | Class Overview and Logistics<br/> [[slides]](../../assets/files/syllabus-cop3363-fall24.pdf) | [Course Syllabus](../../assets/files/syllabus-cop3363-fall24.pdf) |     |
+| Mon 8/26   | Class Overview and Logistics<br/> [[slides]](../../assets/files/lecs/lec1_course_info.pdf) | [Course Syllabus](../../assets/files/syllabus-cop3363-fall24.pdf) |     |
 
 </div>
 
