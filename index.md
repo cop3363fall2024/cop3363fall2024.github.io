@@ -20,11 +20,11 @@ Fall 2024
 
 Welcomme to COP3363: Introduction to Programming in *C++* for Majors!
 
-**Please bring your laptops or tablets that have Canvas access to the class, we will have a in-class quiz on the first day!**
+**Please bring your laptops or tablets that have Canvas access to the class, <span style="color:red">we will have a in-class quiz on the first day!</span>**
 
 </div>
 
-<!-- [Past annoucements]({% link docs/annoucements.md %}){: .btn .btn-white } -->
+[Past annoucements]({% link docs/annoucements.md %}){: .btn .btn-white }
 
 ## Instructor
 [Shibo Li](https://imshibo.com/)

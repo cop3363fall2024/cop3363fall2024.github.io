@@ -1,7 +1,7 @@
 {"0": {
     "doc": "Annoucements",
     "title": "Annoucements",
-    "content": "Week 4 Annoucements . Apr 23 . Assignments: . | Project 5 has been released, due Tuesday, April 16, 11:59 PM PT | Homework 9 Part A and Part B released, due Tuesday, April 16, 11:59 PM PT | Homework 10 Part A and Part B will be released later this week, due Tuesday, April 23, 11:59 PM PT | Project 6 will be released later this week, due Friday, April 26, 11:59 PM PT | . We’re almost at the end, hang in there! . Attendance Extra Credit: . | The EC attendance assignment has been updated on Gradescope! | To view your updated attendance, either submit the email.txt file as mentioned in #353 if you haven’t, or click “re-run autograder” to see the updated score. | . Week 3 Annoucements . Apr 23 . Assignments: . | Project 5 has been released, due Tuesday, April 16, 11:59 PM PT | Homework 9 Part A and Part B released, due Tuesday, April 16, 11:59 PM PT | Homework 10 Part A and Part B will be released later this week, due Tuesday, April 23, 11:59 PM PT | Project 6 will be released later this week, due Friday, April 26, 11:59 PM PT | . We’re almost at the end, hang in there! . Attendance Extra Credit: . | The EC attendance assignment has been updated on Gradescope! | To view your updated attendance, either submit the email.txt file as mentioned in #353 if you haven’t, or click “re-run autograder” to see the updated score. | . Week 2 Annoucements . Apr 23 . Assignments: . | Project 5 has been released, due Tuesday, April 16, 11:59 PM PT | Homework 9 Part A and Part B released, due Tuesday, April 16, 11:59 PM PT | Homework 10 Part A and Part B will be released later this week, due Tuesday, April 23, 11:59 PM PT | Project 6 will be released later this week, due Friday, April 26, 11:59 PM PT | . We’re almost at the end, hang in there! . Attendance Extra Credit: . | The EC attendance assignment has been updated on Gradescope! | To view your updated attendance, either submit the email.txt file as mentioned in #353 if you haven’t, or click “re-run autograder” to see the updated score. | . Week 1 Annoucements . Apr 23 . Assignments: . | Project 5 has been released, due Tuesday, April 16, 11:59 PM PT | Homework 9 Part A and Part B released, due Tuesday, April 16, 11:59 PM PT | Homework 10 Part A and Part B will be released later this week, due Tuesday, April 23, 11:59 PM PT | Project 6 will be released later this week, due Friday, April 26, 11:59 PM PT | . We’re almost at the end, hang in there! . Attendance Extra Credit: . | The EC attendance assignment has been updated on Gradescope! | To view your updated attendance, either submit the email.txt file as mentioned in #353 if you haven’t, or click “re-run autograder” to see the updated score. | . ",
+    "content": " ",
     "url": "/docs/annoucements/",
     
     "relUrl": "/docs/annoucements/"
@@ -358,7 +358,7 @@
   },"51": {
     "doc": "Home",
     "title": "Introduction to Programming in C++ for Majors",
-    "content": "Fall 2024 . Download the Course Syllabus Here . Week 1 Annoucements . 8-26-2023 . Welcomme to COP3363: Introduction to Programming in C++ for Majors! . Please bring your laptops or tablets that have Canvas access to the class, we will have a in-class quiz on the first day! . ",
+    "content": "Fall 2024 . Download the Course Syllabus Here . Week 1 Annoucements . 8-26-2023 . Welcomme to COP3363: Introduction to Programming in C++ for Majors! . Please bring your laptops or tablets that have Canvas access to the class, we will have a in-class quiz on the first day! . Past annoucements . ",
     "url": "/#introduction-to-programming-in-c-for-majors",
     
     "relUrl": "/#introduction-to-programming-in-c-for-majors"
@@ -491,7 +491,7 @@
   },"70": {
     "doc": "Lectures",
     "title": "Lecture Schedule",
-    "content": ". | Date | Topic | Reading Materials | Assignment | . | Mon 8/26 | Class Overview and Logistics [slides] | Course Syllabus |   | . ",
+    "content": ". | Date | Topic | Reading Materials | Assignment | . | Mon 8/26 | Class Overview and Logistics [lec1] | Course Syllabus |   | . ",
     "url": "/docs/lectures/#lecture-schedule",
     
     "relUrl": "/docs/lectures/#lecture-schedule"
