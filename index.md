@@ -14,13 +14,15 @@ Fall 2024
 
 <div class="code-example" markdown="1">
 <span style="color:#782F40;font-size:16pt">Week 1 Annoucements</span>
-{: .fs-3}
+{: .fs-5}
 8-26-2023
-{: .fs-3}
+{: .fs-5}
 
 Welcomme to COP3363: Introduction to Programming in *C++* for Majors!
 
-**Please bring your laptops or tablets that have Canvas access to the class, <span style="color:red">we will have a in-class quiz on the first day!</span>**
+<span style="color:red">**WE *DO* ENFORCE THE FIRST-DAY-ATTENDANCE POLICY!** If you cannot attend the first lecture without notifying the instructor, you will be dropped from this course!</span>
+
+**Please bring your laptops or tablets that can access Canvas to the class, <span style="color:red">we will have a in-class quiz on the first day!</span>**
 
 </div>
 
