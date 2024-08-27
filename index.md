@@ -24,6 +24,12 @@ Welcomme to COP3363: Introduction to Programming in *C++* for Majors!
 
 **Please bring your laptops or tablets that can access Canvas to the class, <span style="color:red">we will have a in-class quiz on the first day!</span>**
 
+{: .fs-5}
+8-27-2023
+{: .fs-5}
+
+If you have any questions about how to setup your CS account, please meet our LA [@Jasmine Masopeh](docs/staff) from 3:00pm-4:00pm @MCH 202 on tomorrow, Wed (8/28)
+
 </div>
 
 [Past annoucements]({% link docs/annoucements.md %}){: .btn .btn-white }

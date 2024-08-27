@@ -22,7 +22,12 @@ nav_order: 4
 * TBA
 
 ## Learning Assistants
-* TBA
+
+<img src="../../assets/images/jas.jpg" width=120 height=120>
+
+Jasmine Masopeh
+{: .fs-5 }
+[Email: jdm21e@fsu.edu](mailto:jdm21e@fsu.edu)
 
 <!-- # Teaching Assistants
 
