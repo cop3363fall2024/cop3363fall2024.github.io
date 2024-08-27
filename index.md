@@ -28,7 +28,12 @@ Welcomme to COP3363: Introduction to Programming in *C++* for Majors!
 8-27-2023
 {: .fs-5}
 
-If you have any questions about how to setup your CS account, please meet our LA [@Jasmine Masopeh](docs/staff) from 3:00pm-4:00pm @MCH 202 on tomorrow, Wed (8/28)
+If you have any questions about how to setup your CS account, please meet our LA 
+
+* [@Peter Hwang](docs/staff) from 1:00pm-3:00pm @MCH 202
+* [@Jasmine Masopeh](docs/staff) from 3:00pm-4:00pm @MCH 202 
+
+tomorrow, Wed (8/28)
 
 </div>
 
