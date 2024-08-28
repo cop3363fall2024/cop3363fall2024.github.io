@@ -15,7 +15,7 @@ Fall 2024
 <div class="code-example" markdown="1">
 <span style="color:#782F40;font-size:16pt">Week 1 Annoucements</span>
 {: .fs-5}
-8-26-2024
+8-26-2023
 {: .fs-5}
 
 Welcomme to COP3363: Introduction to Programming in *C++* for Majors!
@@ -25,7 +25,7 @@ Welcomme to COP3363: Introduction to Programming in *C++* for Majors!
 **Please bring your laptops or tablets that can access Canvas to the class, <span style="color:red">we will have a in-class quiz on the first day!</span>**
 
 {: .fs-5}
-8-27-2024
+8-27-2023
 {: .fs-5}
 
 If you have any questions about how to setup your CS account, please meet our LA 
@@ -34,12 +34,6 @@ If you have any questions about how to setup your CS account, please meet our LA
 * [@Jasmine Masopeh](docs/staff) from 3:00pm-4:00pm @MCH 202 
 
 tomorrow, Wed (8/28)
-
-{: .fs-5}
-8-28-2024
-{: .fs-5}
-
-**No recitation session today**, if you need help, meet the LAs @MCH 202 from 1:00 pm - 4:00 pm
 
 </div>
 
