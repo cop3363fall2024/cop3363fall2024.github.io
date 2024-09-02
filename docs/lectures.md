@@ -13,6 +13,7 @@ nav_order: 3
 |:---------------|:--------------------------------------------------------------|:-----------------------------------------------------|:------------------|
 | Mon 8/26   | Class Overview and Logistics<br/> [[slides]](../../assets/files/lecs/lec1_course_info.pdf) | [Course Syllabus](../../assets/files/syllabus-cop3363-fall24.pdf) |     |
 | Mon 8/28   | Introduction to Programming<br/> [[slides]](../../assets/files/lecs/lec2_intro_to_program.pdf) <br/> Basic Unix Commans<br/> [[slides]](../../assets/files/lecs/lec2_basic_unix_commands.pdf) |       |     |
+| Tue 09/02|  <b><span style="color:red">Labor Day (No Class)</span></b> | <b><span style="color:red">-</span></b> | <span style="color:red">-</span> |
 
 </div>
 

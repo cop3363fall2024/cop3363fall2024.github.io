@@ -13,12 +13,14 @@ Fall 2024
 [Download the Course Syllabus Here](./assets/files/syllabus-cop3363-fall24.pdf){: .fs-5 }
 
 <div class="code-example" markdown="1">
-<span style="color:#782F40;font-size:16pt">Week 1 Annoucements</span>
+<span style="color:#782F40;font-size:16pt">Week 2 Annoucements</span>
 {: .fs-5}
-<span style="color:blue">8-26-2024</span>
+<span style="color:blue">9-2-2024</span>
 {: .fs-5}
 
-Welcomme to COP3363: Introduction to Programming in *C++* for Majors!
+No class, enjoy the break.
+
+<!-- Welcomme to COP3363: Introduction to Programming in *C++* for Majors!
 
 <span style="color:red">**WE *DO* ENFORCE THE FIRST-DAY-ATTENDANCE POLICY!** If you cannot attend the first lecture without notifying the instructor, you will be dropped from this course!</span>
 
@@ -39,7 +41,7 @@ tomorrow, Wed (8/28)
 <span style="color:blue">8-28-2024</span>
 {: .fs-5}
 
-**No recitation session today**, if you need help, meet the LAs @MCH 202 from 1:00 pm - 4:00 pm
+**No recitation session today**, if you need help, meet the LAs @MCH 202 from 1:00 pm - 4:00 pm -->
 
 </div>
 
