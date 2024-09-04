@@ -20,6 +20,12 @@ Fall 2024
 
 No class, enjoy the break.
 
+{: .fs-5}
+<span style="color:blue">9-4-2024</span>
+{: .fs-5}
+
+No recitation sessions on 9/4, recitation and review sessions will start from next Wed 9/11.
+
 <!-- Welcomme to COP3363: Introduction to Programming in *C++* for Majors!
 
 <span style="color:red">**WE *DO* ENFORCE THE FIRST-DAY-ATTENDANCE POLICY!** If you cannot attend the first lecture without notifying the instructor, you will be dropped from this course!</span>

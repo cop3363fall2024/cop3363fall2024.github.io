@@ -358,7 +358,7 @@
   },"51": {
     "doc": "Home",
     "title": "Introduction to Programming in C++ for Majors",
-    "content": "Fall 2024 . Download the Course Syllabus Here . Week 2 Annoucements . 9-2-2024 . No class, enjoy the break. Past annoucements . ",
+    "content": "Fall 2024 . Download the Course Syllabus Here . Week 2 Annoucements . 9-2-2024 . No class, enjoy the break. 9-4-2024 . No recitation sessions on 9/4, recitation and review sessions will start from next Wed 9/11. Past annoucements . ",
     "url": "/#introduction-to-programming-in-c-for-majors",
     
     "relUrl": "/#introduction-to-programming-in-c-for-majors"
@@ -491,7 +491,7 @@
   },"70": {
     "doc": "Lectures",
     "title": "Lecture Schedule",
-    "content": ". | Date | Topic | Reading Materials | Assignment | . | Mon 8/26 | Class Overview and Logistics [slides] | Course Syllabus |   | . | Mon 8/28 | Introduction to Programming [slides] Basic Unix Commans [slides] |   |   | . | Tue 09/02 | Labor Day (No Class) | - | - | . ",
+    "content": ". | Date | Topic | Reading Materials | Assignment | . | Mon 8/26 | Class Overview and Logistics [slides] | Course Syllabus |   | . | Wed 8/28 | Introduction to Programming [slides] Basic Unix Commans [slides] |   |   | . | Mon 09/02 | Labor Day (No Class) | - | - | . | Wed 09/04 | C++ Basics [slides] [code] |   |   | . ",
     "url": "/docs/lectures/#lecture-schedule",
     
     "relUrl": "/docs/lectures/#lecture-schedule"
