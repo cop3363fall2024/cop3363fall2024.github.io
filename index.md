@@ -33,7 +33,7 @@ Fall 2024
 <br/>
 Office: 206A LOV
 <br/>
-Office Hour: Web 3:30-4:30 pm
+Office Hour: Tue 2:00-4:00 pm
 <br/>
 [Meet Our Teaching Staff](docs/staff)
 
