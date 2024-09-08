@@ -5,6 +5,22 @@ nav_exclude: true
 ---
 
 <div class="code-example" markdown="1">
+<span style="color:#782F40;font-size:16pt">Week 2 Annoucements</span>
+{: .fs-5}
+<span style="color:blue">9-2-2024</span>
+{: .fs-5}
+
+No class, enjoy the break.
+
+{: .fs-5}
+<span style="color:blue">9-4-2024</span>
+{: .fs-5}
+
+No recitation sessions on 9/4, recitation and review sessions will start from next Wed 9/11.
+
+</div>
+
+<div class="code-example" markdown="1">
 <span style="color:#782F40;font-size:16pt">Week 1 Annoucements</span>
 {: .fs-5}
 <span style="color:blue">8-26-2024</span>
