@@ -15,6 +15,7 @@ nav_order: 3
 | Wed 8/28   | Introduction to Programming<br/> [[slides]](../../assets/files/lecs/lec2_intro_to_program.pdf) <br/> Basic Unix Commans<br/> [[slides]](../../assets/files/lecs/lec2_basic_unix_commands.pdf) |       |     |
 | Mon 09/02|  <b><span style="color:red">Labor Day (No Class)</span></b> | <b><span style="color:red">-</span></b> | <span style="color:red">-</span> |
 | Wed 09/04   | C++ Basics [[slides]](../../assets/files/lecs/lec4_cpp_basics.pdf) [[code]](https://github.com/cop3363fall2024/cop3363fall2024demos/tree/main/lec4) |       |     |
+| Mon 09/09   | C++ Operators [[slides]](../../assets/files/lecs/lec5_cpp_operators.pdf) |       |  Homework 1 Released <br/> (Due Sep 23)   |
 
 </div>
 
