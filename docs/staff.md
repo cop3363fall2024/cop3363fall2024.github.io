@@ -17,6 +17,7 @@ nav_order: 4
 
 # Teaching Assistants(TAs)
 
+<img src="../../assets/images/yilin.png" width=120 height=120>
 
 ## Yilin Wang
 
