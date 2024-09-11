@@ -25,6 +25,8 @@ nav_order: 4
 
 **Office Hours**: Thu 2:00pm - 4:00pm @ LOV Majors Lab
 
+<img src="../../assets/images/phat.png" width=120 height=120>
+
 ##  Phat Thanh Tran
 
 [Email: ttran@fsu.edu](mailto:ttran@fsu.edu)
