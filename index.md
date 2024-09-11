@@ -23,6 +23,10 @@ Fall 2024
 * The instructor's office hours has been changed from Wed to every Tue 2:00pm - 4:00pm.
 * All the TAs and LAs are ready now, please check their office hours by click [Staff](docs/staff) on the left panel.
 
+{: .fs-5}
+<span style="color:blue">9-11-2024</span>
+{: .fs-5}
+* We will have an in-class programming exercise today, please bring your laptop to the class. 
 
 </div>
 
