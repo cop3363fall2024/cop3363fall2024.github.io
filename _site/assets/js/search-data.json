@@ -491,7 +491,7 @@
   },"70": {
     "doc": "Lectures",
     "title": "Lecture Schedule",
-    "content": ". | Date | Topic | Reading Materials | Assignment | . | Mon 8/26 | Class Overview and Logistics [slides] | Course Syllabus |   | . | Wed 8/28 | Introduction to Programming [slides] Basic Unix Commans [slides] |   |   | . | Mon 09/02 | Labor Day (No Class) | - | - | . | Wed 09/04 | C++ Basics [slides] [code] |   |   | . | Mon 09/09 | C++ Operators [slides] |   | Homework 1 Released (Due Sep 23) | . ",
+    "content": ". | Date | Topic | Reading Materials | Assignment | . | Mon 8/26 | Class Overview and Logistics [slides] | Course Syllabus |   | . | Wed 8/28 | Introduction to Programming [slides] Basic Unix Commans [slides] |   |   | . | Mon 09/02 | Labor Day (No Class) | - | - | . | Wed 09/04 | C++ Basics [slides] [code] |   |   | . | Mon 09/09 | C++ Operators [slides] |   | Homework 1 Released (Due Sep 23) | . | Wed 09/11 | Unix Commands - part2 [slides] | Vim Tutorial [slides] |   | . ",
     "url": "/docs/lectures/#lecture-schedule",
     
     "relUrl": "/docs/lectures/#lecture-schedule"
