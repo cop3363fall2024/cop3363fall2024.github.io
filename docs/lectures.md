@@ -17,6 +17,7 @@ nav_order: 3
 | Wed 09/04   | C++ Basics [[slides]](../../assets/files/lecs/lec4_cpp_basics.pdf) [[code]](https://github.com/cop3363fall2024/cop3363fall2024demos/tree/main/lec4) |       |     |
 | Mon 09/09   | C++ Operators [[slides]](../../assets/files/lecs/lec5_cpp_operators.pdf) |       |  Homework 1 Released <br/> (Due Sep 23)   |
 | Wed 09/11   | Unix Commands - part2 <br/> [[slides]](../../assets/files/lecs/lec6_unix_commands_part2.pdf) <br/> [[exercise code]](https://github.com/cop3363fall2024/cop3363fall2024demos/blob/main/lec6/payments.cpp)|   *Vim* Tutorial <br/>[[slides]](../../assets/files/vimGuide.pdf)    |    |
+| Mon 09/16   | Control Flow [[slides]](../../assets/files/lecs/lec7_control_flow.pdf) |       |     |
 
 </div>
 
