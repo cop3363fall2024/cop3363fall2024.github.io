@@ -19,7 +19,7 @@ nav_order: 3
 | Wed 09/11   | Unix Commands - part2 <br/> [[slides]](../../assets/files/lecs/lec6_unix_commands_part2.pdf) <br/> [[exercise code]](https://github.com/cop3363fall2024/cop3363fall2024demos/blob/main/lec6/payments.cpp)|   *Vim* Tutorial <br/>[[slides]](../../assets/files/vimGuide.pdf)    |    |
 | Mon 09/16   | Control Flow [[slides]](../../assets/files/lecs/lec7_control_flow.pdf) |       |     |
 | Wed 09/18   | Loops [[slides]](../../assets/files/lecs/lec8_loops.pdf) <br/> [[code]](https://github.com/cop3363fall2024/cop3363fall2024demos/blob/main/lec8/rec.cpp) |       |     |
-| Mon 09/23   | Functions [[slides]](../../assets/files/lecs/lec8_loops.pdf)  |    Problem Decompsition <br/>[[slides]](../../assets/files/lecs/problem_decomp.pdf)   |  <b><span style="color:red">*Homework 1 Due Tonight!*</span></b> <br/>Homework 2 Released (Due Oct 7) |
+| Mon 09/23   | Functions [[slides]](../../assets/files/lecs/lec9_functions.pdf)  |    Problem Decompsition <br/>[[slides]](../../assets/files/lecs/problem_decomp.pdf)   |  <b><span style="color:red">*Homework 1 Due Tonight!*</span></b> <br/>Homework 2 Released (Due Oct 7) |
 
 </div>
 
