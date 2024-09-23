@@ -491,7 +491,7 @@
   },"70": {
     "doc": "Lectures",
     "title": "Lecture Schedule",
-    "content": ". | Date | Topic | Reading Materials | Assignment | . | Mon 8/26 | Class Overview and Logistics [slides] | Course Syllabus |   | . | Wed 8/28 | Introduction to Programming [slides] Basic Unix Commans [slides] |   |   | . | Mon 09/02 | Labor Day (No Class) | - | - | . | Wed 09/04 | C++ Basics [slides] [code] |   |   | . | Mon 09/09 | C++ Operators [slides] |   | Homework 1 Released (Due Sep 23) | . | Wed 09/11 | Unix Commands - part2 [slides] [exercise code] | Vim Tutorial [slides] |   | . | Mon 09/16 | Control Flow [slides] |   |   | . | Wed 09/18 | Loops [slides] [code] |   |   | . ",
+    "content": ". | Date | Topic | Reading Materials | Assignment | . | Mon 8/26 | Class Overview and Logistics [slides] | Course Syllabus |   | . | Wed 8/28 | Introduction to Programming [slides] Basic Unix Commans [slides] |   |   | . | Mon 09/02 | Labor Day (No Class) | - | - | . | Wed 09/04 | C++ Basics [slides] [code] |   |   | . | Mon 09/09 | C++ Operators [slides] |   | Homework 1 Released (Due Sep 23) | . | Wed 09/11 | Unix Commands - part2 [slides] [exercise code] | Vim Tutorial [slides] |   | . | Mon 09/16 | Control Flow [slides] |   |   | . | Wed 09/18 | Loops [slides] [code] |   |   | . | Mon 09/23 | Functions [slides] | Problem Decompsition [slides] | Homework 1 Due Tonight! Homework 2 Released (Due Oct 7) | . ",
     "url": "/docs/lectures/#lecture-schedule",
     
     "relUrl": "/docs/lectures/#lecture-schedule"
@@ -757,7 +757,7 @@
   },"108": {
     "doc": "Staff",
     "title": "Jasmine Masopeh",
-    "content": "Email: jdm21e@fsu.edu . Office Hours: Mon 1:00pm - 3:00pm @ LOV Majors Lab . ",
+    "content": "Email: jdm21e@fsu.edu . Office Hours: Mon 3:00pm - 5:00pm @ LOV Majors Lab . ",
     "url": "/docs/staff/#jasmine-masopeh",
     
     "relUrl": "/docs/staff/#jasmine-masopeh"

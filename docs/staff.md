@@ -41,7 +41,7 @@ nav_order: 4
 
 [Email: jdm21e@fsu.edu](mailto:jdm21e@fsu.edu)
 
-**Office Hours**: Mon 1:00pm - 3:00pm @ LOV Majors Lab
+**Office Hours**: Mon 3:00pm - 5:00pm @ LOV Majors Lab
 
 ##  Peter Hwang
 
