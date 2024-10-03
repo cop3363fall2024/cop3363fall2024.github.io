@@ -5,6 +5,17 @@ nav_exclude: true
 ---
 
 <div class="code-example" markdown="1">
+<span style="color:#782F40;font-size:16pt">Week 5 Annoucements</span>
+{: .fs-5}
+<span style="color:blue">9-23-2024</span>
+{: .fs-5}
+
+* <span style="color:red">Homework 1 due tonight 11:59pm.</span>
+* Homework 2 released, due on Oct 7.
+
+</div>
+
+<div class="code-example" markdown="1">
 <span style="color:#782F40;font-size:16pt">Week 3 Annoucements</span>
 {: .fs-5}
 <span style="color:blue">9-9-2024</span>

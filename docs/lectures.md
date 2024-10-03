@@ -18,8 +18,11 @@ nav_order: 3
 | Mon 09/09   | C++ Operators [[slides]](../../assets/files/lecs/lec5_cpp_operators.pdf) |       |  Homework 1 Released <br/> (Due Sep 23)   |
 | Wed 09/11   | Unix Commands - part2 <br/> [[slides]](../../assets/files/lecs/lec6_unix_commands_part2.pdf) <br/> [[exercise code]](https://github.com/cop3363fall2024/cop3363fall2024demos/blob/main/lec6/payments.cpp)|   *Vim* Tutorial <br/>[[slides]](../../assets/files/vimGuide.pdf)    |    |
 | Mon 09/16   | Control Flow [[slides]](../../assets/files/lecs/lec7_control_flow.pdf) |       |     |
-| Wed 09/18   | Loops [[slides]](../../assets/files/lecs/lec8_loops.pdf) <br/> [[code]](https://github.com/cop3363fall2024/cop3363fall2024demos/blob/main/lec8/rec.cpp) |       |     |
+| Wed 09/18   | Loops [[slides]](../../assets/files/lecs/lec8_loops.pdf) <br/> [[exercise code]](https://github.com/cop3363fall2024/cop3363fall2024demos/blob/main/lec8/rec.cpp) |       |     |
 | Mon 09/23   | Functions [[slides]](../../assets/files/lecs/lec9_functions.pdf)  |    Problem Decompsition <br/>[[slides]](../../assets/files/lecs/problem_decomp.pdf)   |  <b><span style="color:red">*Homework 1 Due Tonight!*</span></b> <br/>Homework 2 Released (Due Oct 7) |
+| Wed 09/25|  <b><span style="color:red">Cancelled</span></b> | <b><span style="color:red">-</span></b> | <span style="color:red">-</span> |
+| Mon 09/30   | Unix Part3 [[slides]](../../assets/files/lecs/lec10.pdf)  |      |  |
+| Wed 10/02   | Advanced Functions [[slides]](../../assets/files/lecs/lec11.pdf) <br/> [[exercise code]](https://github.com/cop3363fall2024/cop3363fall2024demos/blob/main/lec11/pi.cpp) |      |  |
 
 </div>
 
