@@ -12,6 +12,18 @@ Fall 2024
 {: .fs-6 .fw-300 }
 [Download the Course Syllabus Here](./assets/files/syllabus-cop3363-fall24.pdf){: .fs-5 }
 
+<div class="code-example" markdown="1">
+<span style="color:#782F40;font-size:16pt">Week 7 Annoucements</span>
+{: .fs-5}
+<span style="color:blue">10-7-2024</span>
+{: .fs-5}
+
+* <span style="color:red">Homework 2 due tonight 11:59pm.</span>
+* Homework 3 released, due on Oct 21 @ 11:59pm.
+* Midterm exam will take place on Oct 14 from 4:50pm-6:05pm @ MCH 201
+
+</div>
+
 [Past annoucements]({% link docs/annoucements.md %}){: .btn .btn-white }
 
 ## Instructor

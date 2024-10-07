@@ -23,6 +23,7 @@ nav_order: 3
 | Wed 09/25|  <b><span style="color:red">Cancelled</span></b> | <b><span style="color:red">-</span></b> | <span style="color:red">-</span> |
 | Mon 09/30   | Unix Part3 [[slides]](../../assets/files/lecs/lec10.pdf)  |      |  |
 | Wed 10/02   | Advanced Functions [[slides]](../../assets/files/lecs/lec11.pdf) <br/> [[exercise code]](https://github.com/cop3363fall2024/cop3363fall2024demos/blob/main/lec11/pi.cpp) |      |  |
+| Mon 10/07   | Recursion [[slides]](../../assets/files/lecs/lec12_recursive.pdf) <br/> Arrays [[slides]](../../assets/files/lecs/lec12_arrays.pdf) |      |  <b><span style="color:red">*Homework 2 Due Tonight!*</span></b> <br/>Homework 3 Released (Due Oct 21) |
 
 </div>
 
