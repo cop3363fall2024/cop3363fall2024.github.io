@@ -13,7 +13,7 @@ nav_order: 3
 |:---------------|:--------------------------------------------------------------|:-----------------------------------------------------|:------------------|
 | Mon 8/26   | Class Overview and Logistics<br/> [[slides]](../../assets/files/lecs/lec1_course_info.pdf) | [Course Syllabus](../../assets/files/syllabus-cop3363-fall24.pdf) |     |
 | Wed 8/28   | Introduction to Programming<br/> [[slides]](../../assets/files/lecs/lec2_intro_to_program.pdf) <br/> Basic Unix Commans<br/> [[slides]](../../assets/files/lecs/lec2_basic_unix_commands.pdf) |       |     |
-| Mon 09/02|  <b><span style="color:red">Labor Day (No Class)</span></b> | <b><span style="color:red">-</span></b> | <span style="color:red">-</span> |
+| Mon 09/02  |  <b><span style="color:red">Labor Day (No Class)</span></b> | <b><span style="color:red">-</span></b> | <span style="color:red">-</span> |
 | Wed 09/04   | C++ Basics [[slides]](../../assets/files/lecs/lec4_cpp_basics.pdf) [[code]](https://github.com/cop3363fall2024/cop3363fall2024demos/tree/main/lec4) |       |     |
 | Mon 09/09   | C++ Operators [[slides]](../../assets/files/lecs/lec5_cpp_operators.pdf) |       |  Homework 1 Released <br/> (Due Sep 23)   |
 | Wed 09/11   | Unix Commands - part2 <br/> [[slides]](../../assets/files/lecs/lec6_unix_commands_part2.pdf) <br/> [[exercise code]](https://github.com/cop3363fall2024/cop3363fall2024demos/blob/main/lec6/payments.cpp)|   *Vim* Tutorial <br/>[[slides]](../../assets/files/vimGuide.pdf)    |    |
@@ -24,6 +24,8 @@ nav_order: 3
 | Mon 09/30   | Unix Part3 [[slides]](../../assets/files/lecs/lec10.pdf)  |      |  |
 | Wed 10/02   | Advanced Functions [[slides]](../../assets/files/lecs/lec11.pdf) <br/> [[exercise code]](https://github.com/cop3363fall2024/cop3363fall2024demos/blob/main/lec11/pi.cpp) |      |  |
 | Mon 10/07   | Recursion [[slides]](../../assets/files/lecs/lec12_recursive.pdf) <br/> Arrays [[slides]](../../assets/files/lecs/lec12_arrays.pdf) |      |  <b><span style="color:red">*Homework 2 Due Tonight!*</span></b> <br/>Homework 3 Released (Due Oct 21) |
+| Wed 10/09   | C-string [[slides]](../../assets/files/lecs/lec13_c_string.pdf)  |      |   |
+| Mon 10/14  |  <b><span style="color:blue">Midterm Exam</span></b> |  |  |
 
 </div>
 
