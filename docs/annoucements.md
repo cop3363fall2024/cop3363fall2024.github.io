@@ -5,6 +5,18 @@ nav_exclude: true
 ---
 
 <div class="code-example" markdown="1">
+<span style="color:#782F40;font-size:16pt">Week 7 Annoucements</span>
+{: .fs-5}
+<span style="color:blue">10-7-2024</span>
+{: .fs-5}
+
+* <span style="color:red">Homework 2 due tonight 11:59pm.</span>
+* Homework 3 released, due on Oct 21 @ 11:59pm.
+* Midterm exam will take place on Oct 14 from 4:50pm-6:05pm @ MCH 201
+
+</div>
+
+<div class="code-example" markdown="1">
 <span style="color:#782F40;font-size:16pt">Week 5 Annoucements</span>
 {: .fs-5}
 <span style="color:blue">9-23-2024</span>
