@@ -26,7 +26,7 @@ nav_order: 3
 | Mon 10/07   | Recursion [[slides]](../../assets/files/lecs/lec12_recursive.pdf) <br/> Arrays [[slides]](../../assets/files/lecs/lec12_arrays.pdf) |      |  <b><span style="color:red">*Homework 2 Due Tonight!*</span></b> <br/>Homework 3 Released (Due Oct 21) |
 | Wed 10/09   | C-string [[slides]](../../assets/files/lecs/lec13_c_string.pdf)  |      |   |
 | Mon 10/14  |  <b><span style="color:blue">Midterm Exam</span></b> |  |  |
-| Wed 10/16   | String-Objects [[slides]](../../assets/files/lecs/lec14_recursive.pdf) <br/> Exercise [[starter code]](../../assets/files/code/bubble.cpp) |      |  |
+| Wed 10/16   | String-Objects [[slides]](../../assets/files/lecs/lec14_string_objects.pdf) <br/> Exercise [[starter code]](../../assets/files/code/bubble.cpp) |      |  |
 
 </div>
 
