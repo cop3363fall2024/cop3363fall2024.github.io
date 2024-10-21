@@ -27,6 +27,9 @@ nav_order: 3
 | Wed 10/09   | C-string [[slides]](../../assets/files/lecs/lec13_c_string.pdf)  |      |   |
 | Mon 10/14  |  <b><span style="color:blue">Midterm Exam</span></b> |  |  |
 | Wed 10/16   | String-Objects [[slides]](../../assets/files/lecs/lec14_string_objects.pdf) <br/> Exercise [[starter code]](../../assets/files/code/bubble.cpp) |      |  |
+| Mon 10/21   | Pointers [[slides]](../../assets/files/lecs/lec15_pointers.pdf)  |      | <b><span style="color:red">*Homework 3 Due Tonight!*</span></b> <br/>Homework 4 Released (Due Nov 4) |
+
+
 
 </div>
 
