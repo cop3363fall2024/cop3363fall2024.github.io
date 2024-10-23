@@ -28,6 +28,7 @@ nav_order: 3
 | Mon 10/14  |  <b><span style="color:blue">Midterm Exam</span></b> |  |  |
 | Wed 10/16   | String-Objects [[slides]](../../assets/files/lecs/lec14_string_objects.pdf) <br/> Exercise [[starter code]](../../assets/files/code/bubble.cpp) |      |  |
 | Mon 10/21   | Pointers [[slides]](../../assets/files/lecs/lec15_pointers.pdf)  |      | <b><span style="color:red">*Homework 3 Due Tonight!*</span></b> <br/>Homework 4 Released (Due Nov 4) |
+| Wed 10/23   | Pointers [[slides]](../../assets/files/lecs/lec15_pointers.pdf) <br/> Exercise [[starter code]](../../assets/files/code/subsum.cpp)  |      | |
 
 
 
