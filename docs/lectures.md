@@ -31,6 +31,10 @@ nav_order: 3
 | Wed 10/23   | Pointers [[slides]](../../assets/files/lecs/lec15_pointers.pdf) <br/> Exercise [[starter code]](../../assets/files/code/subsum.cpp) <br/> Exercise [[soln]](https://github.com/cop3363fall2024/cop3363fall2024demos/blob/main/lec15/subsum.cpp) |      | |
 | Mon 10/28  |  <b><span style="color:blue">Midterm Exam Walkthrough</span></b> |  |  |
 | Wed 10/30   | Dynamic Memory Allocation [[slides]](../../assets/files/lecs/lec16_dynamic_memory.pdf) |      | |
+| Mon 11/4   | Shell Script - Part I [[slides]](../../assets/files/lecs/lec17_shell_script_part1.pdf) |      | <b><span style="color:red">*Homework 4 Due Tonight!*</span></b> <br/>Homework 5 Released (Due Nov 18) |
+| Wed 11/6   | Progress Management [[slides]](../../assets/files/lecs/lec18_process_management.pdf) |      | |
+| Mon 11/11   | <b><span style="color:red">Veterans Day (No Class)</span></b> | <b><span style="color:red">-</span></b> | <span style="color:red">-</span> |
+| Mon 11/13   | Structures [[slides]](../../assets/files/lecs/lec19_struct.pdf) |      | |
 
 
 
