@@ -34,7 +34,8 @@ nav_order: 3
 | Mon 11/4   | Shell Script - Part I [[slides]](../../assets/files/lecs/lec17_shell_script_part1.pdf) |      | <b><span style="color:red">*Homework 4 Due Tonight!*</span></b> <br/>Homework 5 Released (Due Nov 18) |
 | Wed 11/6   | Progress Management [[slides]](../../assets/files/lecs/lec18_process_management.pdf) |      | |
 | Mon 11/11   | <b><span style="color:red">Veterans Day (No Class)</span></b> | <b><span style="color:red">-</span></b> | <span style="color:red">-</span> |
-| Mon 11/13   | Structures [[slides]](../../assets/files/lecs/lec19_struct.pdf) |      | |
+| Wed 11/13   | Structures [[slides]](../../assets/files/lecs/lec19_struct.pdf) |      | |
+| Mon 11/18   | File Operations [[slides]](../../assets/files/lecs/lec20_files.pdf) |      | <b><span style="color:red">*Homework 5 Due Tonight!*</span></b> <br/>Homework 6 Released (Due Dec 2) |
 
 
 
