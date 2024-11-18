@@ -29,7 +29,7 @@ Fall 2024
 {: .fs-5}
 
 * <span style="color:red">Homework 5 due tonight 11:59pm.</span>
-* Homework 5 released, due on Dec 2 @ 11:59pm.
+* Homework 6 released, due on Dec 2 @ 11:59pm.
 
 </div>
 
