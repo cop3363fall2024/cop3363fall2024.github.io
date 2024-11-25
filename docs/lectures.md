@@ -36,8 +36,12 @@ nav_order: 3
 | Mon 11/11   | <b><span style="color:red">Veterans Day (No Class)</span></b> | <b><span style="color:red">-</span></b> | <span style="color:red">-</span> |
 | Wed 11/13   | Structures [[slides]](../../assets/files/lecs/lec19_struct.pdf) |      | |
 | Mon 11/18   | File Operations [[slides]](../../assets/files/lecs/lec20_files.pdf) |      | <b><span style="color:red">*Homework 5 Due Tonight!*</span></b> <br/>Homework 6 Released (Due Dec 2) |
-
-
+| Wed 11/20   | Shell Script - Part II [[slides]](../../assets/files/lecs/lec21_shell_script_part2.pdf) |      | |
+| Mon 11/25   | Final Review [[slides]](../../assets/files/lecs/lec22_final_review.pdf) |      |  |
+| Wed 11/27   | <b><span style="color:red"> Thanksgiving Holidays  (No Class)</span></b> | <b><span style="color:red">-</span></b> | <span style="color:red">-</span> |
+| Mon 12/2   | <b><span style="color:red"> Cancelled (No Class)</span></b> | <b><span style="color:red">-</span></b> | <b><span style="color:red">*Homework 6 Due Tonight!*</span></b> |
+| Wed 12/4   | Q&A Session|  | |
+| Mon 12/9   | <b><span style="color:blue">Final Exam</span></b> |  | |
 
 </div>
 
